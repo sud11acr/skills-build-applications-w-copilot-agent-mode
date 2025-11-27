@@ -2,6 +2,8 @@
 
 # Virtual Environment
 venv
+/octofit-tracker/backend/venv/
+/octofit-tracker/backend/*.py[cod]
 
 # octofit tracker app
 # octfit-tracker
